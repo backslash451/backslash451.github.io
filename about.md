@@ -1,33 +1,41 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: About me
+tags: [about]
+modified: 2014-03-18
 image:
   feature: so-simple-sample-image-4.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+Hi! 
 
-## So Simple Theme is all about:
+As you can guess by the hostname my name is Roberto Belardo and i am a Software Engineer with a lot of passions, one of which is IT. Here you can read some notes about me, what i did, what i am currently doing, and what i would like to do in the future.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+## Past
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+**I was born in Rome in 1982** and i quickly found my way through life till the moment i got my first computer. A Commodore 64. I still remember the hours spent waiting those cassettes while loading… That was really a pain in the *** but it was worth it. From then on it was an escalation of love for “computer stuff“.
 
-[^1]: Example: *domain.com/category-name/post-title*
+The decision to get a **Master Degree in Computer Science Engineering** was straightforward. I **graduated cum laude** at the University of Rome Tor Vergata with a thesis on “Web services selection and QoS monitoring“.
+
+Once graduated i decided to **try living in London**, so i made my bags and i left for London looking for a job. But i didn’t have a great timing, because there was the entire Europe who was just graduated and looking for a job in London, so i just spent a month there, i have made some friends and i have exercised my English.
+
+Once back from London i **started working at Engineering** on a product for Tim Brazil. I developed backend modules for that huge webapp, refactored a lot of legacy code and managed production deploy two times **on site with the client in Sao Paulo, Brazil**. It was an amazing experience that i will remember for the rest of my life. There i have meet true friends, i have spent nights programming, facing the client and eating picanha.
+
+I wrote significant software in Java, C, Objective C, Ruby on Rails, Perl and Php.
+
+I wrote Hello World in Python, C++, Javascript, etc…
+
+## Present
+
+I am **currently working in Rome for Rai – Radiotelevisione Italiana** where, along with a strong team, i am re-engineernig business processes from analog to digital. We are developing a variety of softwares to replace cassettes with files and switch to digital the entire production chain. In particular, handle the efficient transfer of very large files , i build last-minute prototypes, i revise supplier’s Java code in order to meet our quality standards.
+
+My current interests includes nosql databases (i recently certified as **MongoDB developer**), Agile methodologies (i am certifying as a **Certified Scrum Master**)  and the development of iOS apps (I have designed and developed with two friends **QuitItApp**, and we have positioned finalists at SMAU 2012) .
+
+In my free time i like to do rock climbing, snowboarding, make photos, go mountain biking with my friends and play with Ettore, my dog.
+
+## Future
+
+Looking to the next future **i am considering moving abroad** looking for new motivation. I would like to work in a European capital such as **Berlin or Amsterdam** (of which i fell in love during two trips i have done in recent years), perhaps **in a start-up**, where you can learn from new colleagues, where i could become attached to a product and where to apply agile methodologies that i have studied.
