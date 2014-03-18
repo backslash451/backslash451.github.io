@@ -32,15 +32,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: About me
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Contacts
+    url: /contacts/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Italy/Rome
