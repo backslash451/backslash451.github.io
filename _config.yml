@@ -4,13 +4,13 @@ logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://backslash451.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Roberto Belardo
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          roberto.belardo@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -43,7 +43,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Italy/Rome
 future:      true
 pygments:    true
 markdown:    kramdown
