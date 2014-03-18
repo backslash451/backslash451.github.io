@@ -12,14 +12,14 @@ owner:
   avatar: 		cropped-blogicon.png
   email:        	roberto.belardo@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: 		https://twitter.com/robertobelardo
+  twitter: 		robertobelardo
   facebook:       
-  github:		https://github.com/backslash451
+  github:		backslash451
   stackexchange:  
-  linkedin:		http://www.linkedin.com/in/robertobelardo/en
-  instagram:		http://instagram.com/backslash451
-  flickr:			http://www.flickr.com/photos/backslash451/
-  tumblr:		http://backslash451.tumblr.com/
+  linkedin:		robertobelardo/en
+  instagram:		backslash451
+  flickr:			backslash451
+  tumblr:		backslash451
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
