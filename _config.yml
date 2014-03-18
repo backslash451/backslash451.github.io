@@ -8,18 +8,18 @@ url:              http://backslash451.github.io
 
 # Owner/author information
 owner:
-  name:           Roberto Belardo
-  avatar:         bio-photo.jpg
-  email:          roberto.belardo@gmail.com
+  name:			Roberto Belardo
+  avatar: 		bio-photo.jpg
+  email:        	roberto.belardo@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: 		https://twitter.com/robertobelardo
   facebook:       
-  github:         
+  github:		https://github.com/backslash451
   stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  linkedin:		http://www.linkedin.com/in/robertobelardo/en
+  instagram:		http://instagram.com/backslash451
+  flickr:			http://www.flickr.com/photos/backslash451/
+  tumblr:		http://backslash451.tumblr.com/
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
