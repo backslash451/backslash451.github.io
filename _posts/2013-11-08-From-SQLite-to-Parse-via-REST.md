@@ -4,6 +4,7 @@ title: "From SQLite to Parse via REST"
 description: "A quick tutorial on importing existing data to Parse backend via REST Api"
 category: articles
 tags: [backend, database, mobile, parse]
+modified: 2014-03-18
 image:
   feature: cloud.jpg
 comments: true
