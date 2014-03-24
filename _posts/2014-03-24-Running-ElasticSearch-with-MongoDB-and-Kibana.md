@@ -59,7 +59,7 @@ You can verify that everything is up and runnig correctly with this command:
 {% endhighlight %}
 
 ### Import some data
-This step is optional but it is useful to import some data significant to play with in MongoDB. I used the **Enron Email Corpus** dataset wich contains 1,5 GB of MongoDB data, comprising 517425 emails. [Here](http://mongodb-enron-email.s3-website-us-east-1.amazonaws.com/ "Enron Email Corpus for MongoDB") you can find detailed instructions on how to download it and import it in MongoDB using the **mongorestore** tool.
+This step is optional but it is useful to import some significant data to play with in MongoDB. I used the **Enron Email Corpus** dataset wich contains 1,5 GB of MongoDB data, comprising 517425 emails. [Here](http://mongodb-enron-email.s3-website-us-east-1.amazonaws.com/ "Enron Email Corpus for MongoDB") you can find detailed instructions on how to download it and import it in MongoDB using the **mongorestore** tool.
 
 {% highlight bash %}
 $ mongorestore --db enron --collection messages messages.bson
