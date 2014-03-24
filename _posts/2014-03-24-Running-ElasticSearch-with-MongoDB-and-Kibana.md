@@ -4,7 +4,6 @@ title: "Running Elasticsearch with MongoDB"
 description: "A short tutorial on running Elasticsearch with MongoDB and Kibana"
 category: articles
 tags: [backend, database, search, mongodb, elasticsearch, kibana, river]
-modified: 2014-03-24
 image:
   feature: elasticsearchHeader.png
 comments: true
