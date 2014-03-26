@@ -41,6 +41,9 @@ links:
     url: /about/
   - title: Contacts
     url: /contacts/
+  - title: Fork me on GitHub
+    url: https://github.com/backslash451/backslash451.github.io/fork
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Italy/Rome
