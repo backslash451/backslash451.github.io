@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Running Elasticsearch with MongoDB"
+subtitle: "A short tutorial on running Elasticsearch with MongoDB"
 description: "A short tutorial on running Elasticsearch with MongoDB and Kibana"
 category: articles
 tags: [backend, database, search, mongodb, elasticsearch, kibana, river]
@@ -142,7 +143,7 @@ Now you can run queries to Elastisearch through *curl* commands to verify it is 
 
 {% highlight bash %}
 $ npm install -g jsontool
-$ $curl -CGET 'http://localhost:9200/enron/_search?q=headers.To:"ebass@enron.com"' | json -i
+$ curl -XGET 'http://localhost:9200/enron/_search?q=headers.To:"ebass@enron.com"' | json –i
 {% endhighlight %}
 
 ## Conclusions

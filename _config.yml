@@ -5,7 +5,7 @@ disqus_shortname:	backslash451githubio
 search:           		true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:				http://backslash451.github.io
-# url:              	http://0.0.0.0:4000
+#url:              	http://0.0.0.0:4000
 
 # Owner/author information
 owner:
@@ -48,7 +48,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Italy/Rome
 future:      true
-pygments:    true
+highlighter:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
